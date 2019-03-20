@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wine</string>
+    <string name="app_name">FoodScan</string>
     <string name="login">Login</string>
     <string name="scan">scan</string>
     <string name="mes_scans">Mes scans</string>
